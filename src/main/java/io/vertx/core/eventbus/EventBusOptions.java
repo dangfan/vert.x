@@ -73,7 +73,7 @@ public class EventBusOptions extends TCPSSLOptions {
   public static final int DEFAULT_PORT = DEFAULT_CLUSTER_PORT;
 
   /**
-   * The default host to listen on = "0.0.0.0" (meaning listen on all available interfaces).
+   * The default host to listen on = "localhost".
    */
   public static final String DEFAULT_HOST = DEFAULT_CLUSTER_HOST;
 
